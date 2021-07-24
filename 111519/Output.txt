@@ -1,0 +1,17 @@
+"C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.2\jbr\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.2\lib\idea_rt.jar=61141:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\aqr17\Desktop\cs55\111519\out\production\111519 ManageAccounts
+acct2's balance is 600.0
+acct1's balance is 950.0
+acct1's Balance after Charging Fee : 940.0
+acct2's Balance after Charging Fee : 590.0
+Account 1 summary :
+Name : Sally
+Account number : 1111
+Balance: 940.0
+The date : Fri Nov 15 14:55:57 PST 2019
+Account 2 summary :
+Name : Joseph
+Account number : 1112
+Balance: 590.0
+The date : Fri Nov 15 14:55:57 PST 2019
+
+Process finished with exit code 0
